@@ -9,5 +9,5 @@ button.onclick = function() {
 console.log(logo.src);
 
 logo.onclick = function() {
-    logo.src = "https://upload.wikimedia.org/wikipedia/commons/1/12/SkyengNew.png" ;
+    logo.src = "https://upload.wikimedia.org/wikipedia/commons/1/12/SkyengNew.png";
 }
